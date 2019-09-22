@@ -9,11 +9,10 @@
   <ul class="list-unstyled interests-list">
     {% for interest in interests %}
 
-      {% if interest.link %}
-      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
-      {% else %}
-      <li>{{ interest.item }}</li>
-      {% endif %}
+     <li>
+      {{ interests.idiom }}
+      <span class="lang-desc">({{ interests.level }})</span>
+    </li>
 
     {% endfor %}
   </ul>
