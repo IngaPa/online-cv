@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Inga Patarcic
+    name: Inga Patarčić
     tagline: Bioinformatician
     avatar: https://github.com/IngaPa/online-cv/assets/images/ipa.jpg
     # Sidebar links
@@ -144,13 +144,13 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Directional dominance on stature and cognition in diverse human populations."
+        authors: Joshi, Peter K.,…, Patarcic I,…,et al
+        conference: Nature 523.7561 (2015): 459-462.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "The role of host genetic factors in respiratory tract infectious diseases: systematic review, meta-analyses and  field synopsis."
+        authors: Patarčić I, Gelemanović A, Kirin M, Kolčić I, Baillie K, Rudan I, Campbell H, de Jong M, Polašek O
+        conference: Scientific Reports (2015)
 
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
