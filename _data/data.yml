@@ -139,16 +139,14 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    Important publications
 
     papers:
-      - title: "Directional dominance on stature and cognition in diverse human populations."
+      - title: Directional dominance on stature and cognition in diverse human populations.
         authors: Joshi, Peter K.,…, Patarcic I,…,et al
         conference: Nature 523.7561 (2015): 459-462.
 
-      - title: "The role of host genetic factors in respiratory tract infectious diseases: systematic review, meta-analyses and  field synopsis."
+      - title: The role of host genetic factors in respiratory tract infectious diseases: systematic review, meta-analyses and  field synopsis.
         authors: Patarčić I, Gelemanović A, Kirin M, Kolčić I, Baillie K, Rudan I, Campbell H, de Jong M, Polašek O
         conference: Scientific Reports (2015)
 
