@@ -7,13 +7,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Inga Patarcic
+    name: Inga Patarčić
     tagline: Bioinformatician
-    avatar: assets/images/ipa.jpg
+    avatar: https://github.com/IngaPa/online-cv/assets/images/ipa.jpg
     # Sidebar links
     email: inga.patarcic@gmail.com
     phone: +49 178 2011 100
-    blog: julia #do not add http://
+    blog: mydnas.github.io/myDNA/ #do not add http://
     linkedin: inga.patarcic
     github: IngaPa
     twitter: 'Ingische'
@@ -30,9 +30,10 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing/Bouldering
+      - idiom: Climbing and Bouldering
         level: Professional 
-      - item: Routesetting
+        
+      - idiom: Routesetting
         level: Professional 
 
       
@@ -138,18 +139,16 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+        Important publications
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Directional dominance on stature and cognition in diverse human populations.
+        authors: Joshi, Peter K.,…, Patarcic I,…,et al
+        conference: "Nature 523.7561 2015: 459-462."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "The role of host genetic factors in respiratory tract infectious diseases: systematic review, meta-analyses and  field synopsis."
+        authors: Patarčić I, Gelemanović A, Kirin M, Kolčić I, Baillie K, Rudan I, Campbell H, de Jong M, Polašek O
+        conference: "Scientific Reports 2015"
 
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
