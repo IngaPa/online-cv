@@ -13,7 +13,7 @@ sidebar:
     # Sidebar links
     email: inga.patarcic@gmail.com
     phone: +49 178 2011 100
-    website: mydnas.github.io #do not add http://
+    website: mydnas.github.io/myDNA/ #do not add http://
     linkedin: inga.patarcic
     github: IngaPa
     twitter: 'Ingische'
@@ -29,33 +29,24 @@ sidebar:
       - idiom: German
         level: Professional
 
-    interests:
-      - idiom: Climbing and Bouldering
-        level: Professional 
-        
-      - idiom: Routesetting
-        level: Professional 
-        
- 
-    skills:
-        item: R, RStudio, Shiny, Markdown,  Python, Git
-    skills:
-        item: Linux, Windows, Mac OS
-    skills:
-        item: STRUCTURE, ADMIXTURE, PLINK, EIGENSOFT, ADMIXTOOLS, CLUSTALX
 
+    awards:
+      - degree: New Voices in Global Health
+        institution: World Health Summit 
+        time: Oct 2015
+
+
+    
+    
+    
+    
+    
       
 career-profile:
     title: Career Profile
     summary: |
-      I am passionate about science, climbing, and storytelling. As a scientist 
-      I performed research in the field of: population genetics, genomics, 
-      bioinformatics and machine learning, phylogeny, systematic reviews...
-      As a climber, I was multiple time Croatian climbing chamption, memeber of the
-      National Team, and do routesetting. As a storyteller, I wrote stories for climbing 
-      magazines and portals, and s
-
-      Second paragraph if required.
+      I am a PhD Student, semi-professioanl climber and hobby writer/storyteller.
+      My current basecamp is set in Berlin.
 
 education:
     - degree: MSc in Molecular Biology
@@ -120,30 +111,18 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+      My personal, free-time projects are:
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: myDNA
+        link: "https://github.com/IngaPa/myDNAS"
+        tagline: "R package for the analysis of direct-to-consumer (DTC) reported genotypes from companies such as myHeritage, 23andMe, ancestryDNA, etc."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: climbersforclimbers
+        link: "climbersforclimbers.com"
+        tagline: "Web-site with chains of interviews with climbers - coming in January 2020"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
 
 publications:
     title: Publications
@@ -163,27 +142,7 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Linux
-        level: 98%
-
-      - name: R & RScript
-        level: 98%
-
-      - name: markdown and Shiny
-        level: 98%
-
-      - name: STRUCTURE & ADMIXTURE & PLINK 
-        level: 95%
-
-      - name: jelkyl
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
-    Designed with love
+    Designed with <3 in Berlin
