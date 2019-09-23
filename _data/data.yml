@@ -29,19 +29,15 @@ sidebar:
       - idiom: German
         level: Professional
 
-    interests:
-      - idiom: Climbing and Bouldering
-        level: Professional 
-        
-      - idiom: Routesetting
-        level: Professional 
         
  
       
 career-profile:
     title: Career Profile
     summary: |
-      I am passionate about science, climbing, and storytelling.
+      I am a PhD Student, semi-professioanl climber and hobby writer and storyteller. 
+      My current basecamp is set in Berlin, where I study gene regulation and genetic 
+      susceptibility to diseases.
 
 education:
     - degree: MSc in Molecular Biology
@@ -106,10 +102,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+      My personal, free-time projects are:
+      
     assignments:
       - title: myDNA
         link: "https://github.com/IngaPa/myDNAS"
