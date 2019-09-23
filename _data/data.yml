@@ -29,8 +29,11 @@ sidebar:
       - idiom: German
         level: Professional
 
-        
- 
+
+award:
+  - degree: New Voices in Global Health
+    institution: World Health Summit	
+    time: October 2015 
       
 career-profile:
     title: Career Profile
