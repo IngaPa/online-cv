@@ -41,14 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am passionate about science, climbing, and storytelling. As a scientist 
-      I performed research in the field of: population genetics, genomics, 
-      bioinformatics and machine learning, phylogeny, systematic reviews...
-      As a climber, I was multiple time Croatian climbing chamption, memeber of the
-      National Team, and do routesetting. As a storyteller, I wrote stories for climbing 
-      magazines and portals, and s
-
-      Second paragraph if required.
+      I am passionate about science, climbing, and storytelling.
 
 education:
     - degree: MSc in Molecular Biology
@@ -149,4 +142,4 @@ publications:
 
 
 footer: >
-    Designed with <3
+    Designed with <3 in Berlin
