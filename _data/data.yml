@@ -31,25 +31,27 @@ sidebar:
 
 
 awards:
-  - degree:  Top Croatian Athlete 2012 and 2014 - 2017
+  - degree:  Top Croatian Athlete
     institution: The Croatian Olympic Committee	
+    time:  2012 and 2014 - 2017
     
-  - degree: Adidas sponsorship 2017
+  - degree: Adidas sponsorship 
     institution: Adidas 	
- 
-   - degree: New Voices in Global Health
-    institution: World Health Summit 2015	
+    time:  2017
     
-  - degree: Stipend for talented students 2009 and 2013
+   - degree: New Voices in Global Health
+    institution: World Health Summit 	
+    
+  - degree: Stipend for talented students 
     institution: University of Zagreb
     
-  - degree: Rector's Award  2009
+  - degree: Rector's Award  
     institution: University of Zagreb	
     
-  - degree: The City of Zagreb Stipend 2006 - 2013
+  - degree: The City of Zagreb Stipend 
     institution: The City of Zagreb	
     
-  - degree: Stipend 2014 - 2016
+  - degree: Stipend 
     institution: Zagreb Sports Association Stipend
     
     
