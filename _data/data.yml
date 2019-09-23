@@ -30,14 +30,12 @@ sidebar:
         level: Professional
 
 
-    award:
+    awards:
       - degree: New Voices in Global Health
         institution: World Health Summit 
         time: 2015 - 
-
-
-    
-    
+ 
+  
     
     
     
@@ -67,6 +65,8 @@ education:
 
           - Bullet point
           - Bullet point
+          
+          
 
 experiences:
     - role: PhD Student
@@ -106,6 +106,16 @@ experiences:
           - created and maintained filing system for storing confidential records
           - contributed to the development and maintenance of SOPs
           
+          
+              
+    - role: Researcher experience during studies
+      time: 2004 - 2014
+      company: 5th Gymnasium, University of Zagreb, University of Ljubljana, Medils
+      details: |
+        I assisted in establishing and managing the Croatian National Biobank
+          - DNA isolation, PCR, DNA electrophoresis, sequencing, 
+          - manipulation of bacterial and animal cell cultures, cell transformation and transfection, SDS PAGE, Western blotting
+          - Rector's award, etc   
    
 
 projects:
