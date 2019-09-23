@@ -13,7 +13,7 @@ sidebar:
     # Sidebar links
     email: inga.patarcic@gmail.com
     phone: +49 178 2011 100
-    blog: mydnas.github.io/myDNA/ #do not add http://
+    blog: mydnas.github.io #do not add http://
     linkedin: inga.patarcic
     github: IngaPa
     twitter: 'Ingische'
@@ -35,6 +35,14 @@ sidebar:
         
       - idiom: Routesetting
         level: Professional 
+        
+ 
+    skills:
+        item: R, RStudio, Shiny, Markdown,  Python, Git
+    skills:
+        item: Linux, Windows, Mac OS
+    skills:
+        item: STRUCTURE, ADMIXTURE, PLINK, EIGENSOFT, ADMIXTOOLS, CLUSTALX
 
       
 career-profile:
