@@ -1,10 +1,6 @@
 - skills:
-  item: R, RStudio, Shiny, Markdown, Python, Git, Jekyll, Linux, Windows, Mac OS, 
-        STRUCTURE, ADMIXTURE, PLINK, EIGENSOFT, ADMIXTOOLS, GenABEL
+  item: R, RStudio, Shiny, Markdown, Python, Git, Jekyll, Linux, Windows, Mac OS, STRUCTURE, ADMIXTURE, PLINK, EIGENSOFT, ADMIXTOOLS, GenABEL
 - skills:
-  item: DNA isolation, PCR, DNA electrophoresis, manipulation of bacterial and animal 
-  cell cultures, cell transformation and transfection, SDS PAGE, Western blotting
-  
+  item: DNA isolation, PCR, DNA electrophoresis, sequencing, manipulation of bacterial and animal cell cultures, cell transformation and transfection, SDS PAGE, Western blotting
 - skills:
-  item: mathematical/statistical modelling, bioinformatics, machine Learning, phylogenetic
-        analysis, systematic reviews and meta-analysis 
+  item: mathematical/statistical modelling, bioinformatics, machine Learning, phylogenetic analysis, systematic reviews and meta-analysis 
