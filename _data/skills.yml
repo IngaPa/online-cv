@@ -1,6 +1,9 @@
 - skills:
-  item: Python 2 & 3, C++, C, MATLAB, SQL, Git
+  item: R, RStudio, Shiny, Markdown, Python, Git, Jekyll, Linux, Windows, Mac OS, 
+        STRUCTURE, ADMIXTURE, PLINK, EIGENSOFT, ADMIXTOOLS, GenABEL
 - skills:
-  item: Linux, ROS, LCM, Windows, Mac OS, Arduino, Raspberry Pi
+  item: DNA isolation, PCR, DNA electrophoresis, manipulation of bacterial and animal 
+  cell cultures, cell transformation and transfection, SDS PAGE, Western blotting
 - skills:
-  item: AWS, PyQt, JIRA, LabView, Blender, LTSpice, Multisim
+  item: mathematical/statistical modelling, bioinformatics, machine Learning, phylogenetic
+        analysis, systematic reviews and meta-analysis 
