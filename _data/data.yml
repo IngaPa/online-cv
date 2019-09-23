@@ -37,13 +37,6 @@ sidebar:
         level: Professional 
         
  
-    skills:
-        item: R, RStudio, Shiny, Markdown,  Python, Git
-    skills:
-        item: Linux, Windows, Mac OS
-    skills:
-        item: STRUCTURE, ADMIXTURE, PLINK, EIGENSOFT, ADMIXTOOLS, CLUSTALX
-
       
 career-profile:
     title: Career Profile
@@ -163,27 +156,7 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Linux
-        level: 98%
-
-      - name: R & RScript
-        level: 98%
-
-      - name: markdown and Shiny
-        level: 98%
-
-      - name: STRUCTURE & ADMIXTURE & PLINK 
-        level: 95%
-
-      - name: jelkyl
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
-    Designed with love
+    Designed with <3
