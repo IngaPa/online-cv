@@ -107,8 +107,8 @@ experiences:
           - Rector's award, etc   
    
 
-projects:
-    title: Media
+media:
+    title: Media and promotion of science
     intro: >
             
     assignments:
@@ -119,8 +119,20 @@ projects:
       - title: Berlin’s Long Night of Science 2019
         link: "https://www.youtube.com/watch?v=kHW2Gek8QWY"
         tagline: Story “Why did you have to leave?”
+        
+      - title: KCRW Berlin Radio Interview 2018
+        link: "https://kcrwberlin.com/2018/11/berlin-science-week-when-the-bioinformatician-met-the-psychiatrist"
+        tagline: Berlin Science Week: When the bioinformatician met the psychiatrist…
+        
+      - title: Popular science articles 
+        link: "http://biologija.com.hr/modules/profile/userinfo.php?uid=278"
+        tagline: Writing
+        
+      - title: Science articles for pupils of primary schools
+        link: "http://www.bioteka.hr/modules/evolucijasvijeta/article.php?storyid=17"
+        tagline: Writing online educational material for pupils
 
-media:
+projects:
     title: Projects
     intro: >
             
