@@ -31,16 +31,17 @@ sidebar:
 
 
    
-awards:
-    - degree: MSc in Molecular Biology
-      university: University of Zagreb
-      time: 2010 - 2013
-      details: |
-        Describe your study here
+    awards:
+        - degree: Top Croatian Athlete
+          university: The Croatian Olympic Committee
+          time: 2010 - 2013
+          details: |
+        
+        - degree: New Voices in Public Health
+          university: World Health Summit
+          time: 2015 
+          details: |
 
-          - Bullet point
-          - Bullet point   
-    
     
       
 career-profile:
