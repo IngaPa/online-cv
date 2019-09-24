@@ -1,0 +1,15 @@
+
+{% if site.data.awards %}
+<div class="award-container container-block">
+
+  <h2 class="container-block-title">Awards and Honors</h2>
+
+  {% for award in site.data.awards %}
+    <div class="item">
+      <h4 class="degree">{{ award.degree }}</h4>
+      <h5 class="meta">{{ award.university }}</h5>
+    </div><!--//item-->
+  {% endfor %}
+
+</div><!--//education-container-->
+{% endif %}
