@@ -115,8 +115,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      My personal, free-time projects are:
-      
+            
     assignments:
       - title: myDNA
         link: "https://github.com/IngaPa/myDNAS"
@@ -131,8 +130,7 @@ projects:
 publications:
     title: Publications
     intro: |
-        Important publications
-
+        
     papers:
     
     
