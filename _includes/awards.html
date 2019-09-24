@@ -4,14 +4,14 @@
      Awards
     </h2>
 
-    {% for graduation in awards %}
+    {% for award in awards %}
     <div class="item">
-      <h4 class="degree">{{ graduation.degree }}</h4>
-      <h5 class="meta">{{ graduation.institution }}</h5>
-      <div class="time">{{ graduation.time }}</div>
-       {% if graduation.details %}
+      <h4 class="degree">{{ award.degree }}</h4>
+      <h5 class="meta">{{ award.institution }}</h5>
+      <div class="time">{{ award.time }}</div>
+       {% if award.details %}
       <div class="details">
-        {{ graduation.details | markdownify }}
+        {{ award.details | markdownify }}
       </div><!--//details-->
       {% endif %} 
     </div><!--//item-->
