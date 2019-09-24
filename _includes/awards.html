@@ -1,13 +1,11 @@
-{% assign award = site.data.data.award %}
-{% if award %}
-  {% if site.data.data.sidebar.award %}
-  <div class="award-container container-block">
+{% if site.data.awards %}
+  <div class="awards-container container-block">
 
     <h2 class="container-block-title">
      Awards
     </h2>
 
-    {% for graduation in award %}
+    {% for graduation in awards %}
     <div class="item">
       <h4 class="degree">{{ graduation.degree }}</h4>
       <h5 class="meta">{{ graduation.institution }}</h5>
@@ -15,7 +13,7 @@
     </div><!--//item-->
     {% endfor %}
 
-  </div><!--//award-container-->
+  </div><!--//awards-container-->
   {% else %}
   <section class="section awards-section">
 
@@ -27,7 +25,7 @@
       Awards
     </h2>
 
-    {% for graduation in award %}
+    {% for graduation in awards %}
     <div class="item">
 
       <div class="meta">
@@ -51,4 +49,3 @@
 
   </section><!--//section-->
   {% endif %}
-{% endif %}
