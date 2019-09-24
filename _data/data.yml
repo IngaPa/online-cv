@@ -32,10 +32,14 @@ sidebar:
 
    
     awards:
-        - degree: Top Croatian Athlete
-          university: The Croatian Olympic Committee
-          time: 2010 - 2013
-          details: |
+    - degree: MSc in Molecular Biology
+      university: University of Zagreb
+      time: 2010 - 2013
+      details: |
+        Describe your study here
+
+          - Bullet point
+          - Bullet point
         
 
 
