@@ -28,16 +28,6 @@ sidebar:
 
       - idiom: German
         level: Professional
-
-
-   
-    award:
-    - degree: MSc in Molecular Biology
-      university: University of Zagreb
-            
-
-
-    
       
 career-profile:
     title: Career Profile
@@ -118,17 +108,17 @@ experiences:
    
 
 projects:
-    title: Projects
+    title: Media
     intro: >
             
     assignments:
-      - title: myDNA
-        link: "https://github.com/IngaPa/myDNAS"
-        tagline: "R package for the analysis of direct-to-consumer (DTC) reported genotypes from companies such as myHeritage, 23andMe, ancestryDNA, etc."
-
-      - title: climbersforclimbers
-        link: "climbersforclimbers.com"
-        tagline: "Web-site with chains of interviews with climbers - coming in January 2020"
+      - title: Berlin’s Science Week 2018
+        link: "https://www.thebear-storytelling.de/gravity-show/"
+        tagline: Story “From WE to ME”
+        
+      - title: Berlin’s Long Night of Science 2019
+        link: "https://www.youtube.com/watch?v=kHW2Gek8QWY"
+        tagline: Story “Why did you have to leave?”
 
 media:
     title: Projects
