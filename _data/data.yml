@@ -122,15 +122,15 @@ media:
         
       - title: KCRW Berlin Radio Interview 2018
         link: "https://kcrwberlin.com/2018/11/berlin-science-week-when-the-bioinformatician-met-the-psychiatrist"
-        tagline: Berlin Science Week: When the bioinformatician met the psychiatrist…
+        tagline: "Berlin Science Week: When the bioinformatician met the psychiatrist…"
         
       - title: Popular science articles 
         link: "http://biologija.com.hr/modules/profile/userinfo.php?uid=278"
-        tagline: Writing
+        tagline: "Writing articles about DTC, genomics, genetics..."
         
       - title: Science articles for pupils of primary schools
         link: "http://www.bioteka.hr/modules/evolucijasvijeta/article.php?storyid=17"
-        tagline: Writing online educational material for pupils
+        tagline: "Writing online educational material for pupils"
 
 projects:
     title: Projects
