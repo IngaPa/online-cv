@@ -29,17 +29,6 @@ sidebar:
       - idiom: German
         level: Professional
 
-awards:
-    - degree: New Voices in Global Health
-    institution: World Health Summit 
-    time: Oct 2015
-
-
-    
-    
-    
-    
-    
       
 career-profile:
     title: Career Profile
@@ -66,6 +55,8 @@ education:
 
           - Bullet point
           - Bullet point
+          
+          
 
 experiences:
     - role: PhD Student
@@ -104,13 +95,47 @@ experiences:
           - Created and maintained filing system for storing records
           - Contributed to the development and maintenance of SOPs
           
+          
+              
+    - role: Scientific reasearch during studies
+      time: 2004 - 2014
+      company: 5th Gymnasium, University of Zagreb, University of Ljubljana, Medils
+      details: |
+        I assisted in establishing and managing the Croatian National Biobank
+          - DNA isolation, PCR, DNA electrophoresis, sequencing, 
+          - manipulation of bacterial and animal cell cultures, cell transformation and transfection, SDS PAGE, Western blotting
+          - Rector's award, etc   
    
+
+media:
+    title: Media and promotion of science
+    intro: >
+            
+    assignments:
+      - title: Berlin’s Science Week 2018
+        link: "https://www.thebear-storytelling.de/gravity-show/"
+        tagline: Story “From WE to ME”
+        
+      - title: Berlin’s Long Night of Science 2019
+        link: "https://www.youtube.com/watch?v=kHW2Gek8QWY"
+        tagline: Story “Why did you have to leave?”
+        
+      - title: KCRW Berlin Radio Interview 2018
+        link: "https://kcrwberlin.com/2018/11/berlin-science-week-when-the-bioinformatician-met-the-psychiatrist"
+        tagline: "Berlin Science Week: When the bioinformatician met the psychiatrist…"
+        
+      - title: Popular science articles 
+        link: "http://biologija.com.hr/modules/profile/userinfo.php?uid=278"
+        tagline: "Writing articles about DTC, genomics, genetics..."
+        
+      - title: Science articles for pupils of primary schools
+        link: "http://www.bioteka.hr/modules/evolucijasvijeta/article.php?storyid=17"
+        tagline: "Writing online educational material for pupils"
 
 projects:
     title: Projects
     intro: >
-      My personal, free-time projects are:
-      
+            
     assignments:
       - title: myDNA
         link: "https://github.com/IngaPa/myDNAS"
@@ -120,14 +145,20 @@ projects:
         link: "climbersforclimbers.com"
         tagline: "Web-site with chains of interviews with climbers - coming in January 2020"
 
-      
+
+
 
 publications:
     title: Publications
     intro: |
-        Important publications
-
+        
     papers:
+    
+    
+      - title: "Host genetics and susceptibility to congenital and childhood cytomegalovirus infection: a systematic review."
+        authors: Gelemanović, Andrea, Patarčić I,,et al.
+        conference: " Croatian medical journal 57.4 (2016): 321-330."
+        
       - title: Directional dominance on stature and cognition in diverse human populations.
         authors: Joshi, Peter K.,…, Patarcic I,…,et al
         conference: "Nature 523.7561 2015: 459-462."
@@ -136,9 +167,9 @@ publications:
         authors: Patarčić I, Gelemanović A, Kirin M, Kolčić I, Baillie K, Rudan I, Campbell H, de Jong M, Polašek O
         conference: "Scientific Reports 2015"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Homozygous loss-of-function variants in European cosmopolitan and isolate populations"
+        authors: Kaiser V., …, Patarcic I, …, Wilson J.F.
+        conference: "Human molecular genetics (2015): ddv272"
 
 
 
