@@ -41,7 +41,7 @@ education:
       university: University of Zagreb
       time: 2010 - 2013
       details: |
-        I Focused my study and research goals towards bioinformatics.
+        I focused my study and research goals towards bioinformatics.
           - Graduated with topic in population genetics: Genetic structure of the human population of Korčula island
           - Analyzed genotypes of thousand Croatian individuals
           - Used three types of genetic markers: mtDNA, Y chromosomal, and autosomal markers
@@ -65,9 +65,10 @@ experiences:
       time: 2015 - Present 
       company: Data Omics and Bioinformatics Science Gruop
       details: |
-       My core research idea was to develop a computational model to associate regulatory regions and their target genes using data integration approaches:
+       My core research idea is to develop a computational model to associate regulatory regions and their target genes using data integration approaches:
           - Developed two R packages: reg2gene and myDNA
           - Started myDNA blog and developed Shiny App
+          - Integrated various datasets (H3K4me1,H3K27ac, DNAme, DHS, HiC) and algorithms (elastic net, random forest, distance correlation and correlation)
           - in process of writing: reg2gene: Predicting enhancer - gene associations using ensemble learning approaches [publication and thesis] 
 
           
@@ -77,7 +78,7 @@ experiences:
       details: |
         I anayzed data from the Croatian National Biobank:
           - Performed GWAS and analysis of exome datasets
-          - Tested machine learning models to improve polygenic risk score calculation for metabolic syndrome
+          - Tested machine learning models (LASSO, ridge regression, random forest, CART) to improve polygenic risk score calculation for metabolic syndrome
           - Co-authored one publication
      
      
@@ -85,7 +86,7 @@ experiences:
       time: 2013 - 2015
       company: Medical Faculty, University of Split, Split
       details: |
-        As a data analysist, I supported epidemiological research of infectious diseases:
+        I supported epidemiological research of infectious diseases:
         
          - Published two systematic reviews (one field synopsis) and meta-analyses
          - Developed guidelines to improve research design of future association studies
@@ -106,7 +107,7 @@ experiences:
           
           
               
-    - role: Scientific reasearch during high-school
+    - role: High-school researcher
       time: 2004 - 2014
       company: 5th Gymnasium, University of Zagreb, University of Ljubljana, Medils
       details: |
