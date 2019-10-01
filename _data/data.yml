@@ -41,21 +41,23 @@ education:
       university: University of Zagreb
       time: 2010 - 2013
       details: |
-        Describe your study here
-
-          - Bullet point
-          - Bullet point
+        I Focused my study and research goals towards bioinformatics.
+          - Graduated with topic in population genetics: Genetic structure of the human population of Korčula island
+          - Analyzed genotypes of thousand Croatian individuals
+          - Used three types of genetic markers: mtDNA, Y chromosomal, and autosomal markers
+          - Used an in-house R-scripts, STRUCTURE, ADMIXTURE, PLINK, and ADMIXTOOLS softwares.
 
     - degree: BSc in Molecular Biology
       university: University of Zagreb
       time: 2007 - 2010
       details: |
-        Describe your study here 
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-          
+        During studies, I was an active bio-speleologist.
+        
+        - Collected samples and data in >100 speleological objects during multiple speleological expeditions in different EU countries
+        - Reached the bottom of the deepest Croatian cave: Lukina Jama - Trojama (-1431m)
+        - Conducted research: "Phylogenetic analysis of endemic bivalve Congeria kusceri Bole, 1962 (Dreissenidae, Bivalvia)." 
+        - Mastered problem solving skills in the wet lab environment: PCR, DNA isolation and sequencing, cell and bacterial culture manipulation...
+        - Awarded with: The Rector’s Award, The City of Zagreb Scholarship, University of Zagreb Scholarship for Top Students 
           
 
 experiences:
@@ -63,33 +65,40 @@ experiences:
       time: 2015 - Present 
       company: Data Omics and Bioinformatics Science Gruop
       details: |
-          - I developed two R packages: reg2gene and myDNA
+       My core research idea was to develop a computational model to associate regulatory regions and their target genes using data integration approaches:
+          - Developed two R packages: reg2gene and myDNA
           - Started myDNA blog and developed Shiny App
+          - in process of writing: reg2gene: Predicting enhancer - gene associations using ensemble learning approaches [publication and thesis] 
+
           
-    - role: Researcher
+    - role: Visiting Scientist
       time: 2015
-      company: University of Edinburg, Edinburgh
+      company: MRC Human Genetics Unit, University of Edinburgh, Edinburgh
       details: |
-        Describe your role here 
-          - Machine learining modelling to improve risk scores predictions
-          - Bullet point
+        I anayzed data from the Croatian National Biobank:
+          - Performed GWAS and analysis of exome datasets
+          - Tested machine learning models to improve polygenic risk score calculation for metabolic syndrome
+          - Co-authored one publication
      
      
-    - role: Data Analysist
+    - role: Researcher at prepare-europe.eu
       time: 2013 - 2015
       company: Medical Faculty, University of Split, Split
       details: |
-        I analyzed data from the Croatian National Biobank
-         - GWAS and downstream analyses
-          - population genetics analyses using STRUCTURE, ADMIXTURE, PLINK    
+        As a data analysist, I supported epidemiological research of infectious diseases:
+        
+         - Published two systematic reviews (one field synopsis) and meta-analyses
+         - Developed guidelines to improve research design of future association studies
+         - Awarded with the New Voices in Global Health Award at the World Health Summit   
    
           
           
     - role: Researcher in a Biobank facility
       time: 2013 - 2014
-      company: 10,001 Dalmatians - Croatian National Biobank
+      company: 10,001 Dalmatians - Croatian National Biobank, University of Split
       details: |
-        I assisted in establishing and managing the Croatian National Biobank
+        I assisted in establishing and managing the Croatian National Biobank:
+        
           - Interviewed and phenotyped >500 participants
           - Participated in collection and processing of human tissues and other samples
           - Created and maintained filing system for storing records
@@ -97,15 +106,15 @@ experiences:
           
           
               
-    - role: Scientific reasearch during studies
+    - role: Scientific reasearch during high-school
       time: 2004 - 2014
       company: 5th Gymnasium, University of Zagreb, University of Ljubljana, Medils
       details: |
-        I assisted in establishing and managing the Croatian National Biobank
-          - DNA isolation, PCR, DNA electrophoresis, sequencing, 
-          - manipulation of bacterial and animal cell cultures, cell transformation and transfection, SDS PAGE, Western blotting
-          - Rector's award, etc   
-   
+        I have been actively engaged in the scientific research since 2004:
+          - Conducted research projects:Mendel’s laws applied on the history of one dog family (2004), Human evolution: biology or math? (2005), Cariogram of some fish species (2006)
+          - Developed strong analytical skills at the: Summer School of Biology (2004-2006) and Summer School of Science (2006)
+          - Developed strong communication and presenting skills by giving talks at the: National Competitions, Faculty of Science (2005), Matrix Croatica (2004-2006)  
+          - Awarded with: 1st prize at the National Competition in Biology (2004), 2nd prize at the National Competition in Biology (2005 - 2006) 
 
 medias:
     title: Public Outreach
