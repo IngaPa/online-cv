@@ -1,34 +1,34 @@
-{% assign projects = site.data.data.projects %}
-{% if projects %}
-<section class="section projects-section">
+{% assign medias = site.data.data.medias %}
+{% if medias %}
+<section class="section medias-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
-    {{ projects.title }}
+    {{ medias.title }}
   </h2>
 
-  {% if projects.intro %}
+  {% if medias.intro %}
   <div class="intro">
-      <p>{{ projects.intro }}</p>
+      <p>{{ medias.intro }}</p>
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in projects.assignments %}
+  {% for media in medias.assignments %}
     <div class="item">
 
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+      <span class="media-title">
+        {% if media.link %}
+        <a href="{{ media.link }}" target="_blank">{{ media.title }}</a>
         {% else %}
-        {{ project.title }}
+        {{ media.title }}
         {% endif %}
       </span>
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% if media.tagline %}
+      - <span class="media-tagline">{{ media.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
