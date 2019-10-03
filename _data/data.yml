@@ -61,7 +61,7 @@ education:
           
 
 experiences:
-    - role: "PhD Student (focus: data integration and epigenomics)"
+    - role: "PhD Student [data integration and epigenomics]"
       time: 2015 - Present 
       company: Data Omics and Bioinformatics Science Gruop
       details: |
@@ -73,7 +73,7 @@ experiences:
           - in process of writing: reg2gene: Predicting enhancer - gene associations using ensemble learning approaches [publication and thesis] 
 
           
-    - role: "Visiting Scientist (focus: machine learning modelling and polygenic risk scores)"
+    - role: "Visiting Scientist [machine learning and polygenic risk scores]"
       time: Spring 2015
       company: MRC Human Genetics Unit, University of Edinburgh, Edinburgh
       details: |
@@ -83,9 +83,9 @@ experiences:
           - Co-authored 1 publication
      
      
-    - role: "Researcher at prepare-europe.eu (focus: meta-analysis/sys reviews and infectious diseases)"
+    - role: "Researcher [meta-analysis/sys reviews and infectious diseases]"
       time: 2013 - 2015
-      company: Medical Faculty, University of Split, Split
+      company: prepare-europe.eu, Medical Faculty, University of Split, Split
       details: |
         I supported epidemiological research of infectious diseases:
         
@@ -95,7 +95,7 @@ experiences:
    
           
           
-    - role: "Researcher in a Biobank facility (focus: data collection/analysis and population genetics)"
+    - role: "Researcher in a Biobank facility [data collection/analysis and population genetics]"
       time: 2012 - 2014
       company: 10,001 Dalmatians - Croatian National Biobank, University of Split
       details: |
@@ -109,7 +109,7 @@ experiences:
           - Analyzed genotypes of thousand Croatian individual with R, STRUCTURE, ADMIXTURE, PLINK, and ADMIXTOOLS softwares.
 
 
-    - role: "Biospeleologist (focus: data collection/analysis and phylogenetic analysis)"
+    - role: "Biospeleologist [data collection/analysis and phylogenetic analysis]"
       time: 2007 - 2012
       company: University of Zagreb, University of Ljubljana
       details: |
@@ -120,7 +120,7 @@ experiences:
           - Awarded with: The City of Zagreb Scholarship, University of Zagreb Scholarship for Top Students
           
               
-    - role: Researcher during high-school 
+    - role: Research during high-school 
       time: 2004 - 2014
       company: 5th Gymnasium, 
       details: |
@@ -131,29 +131,29 @@ experiences:
           - Awarded with: 1st prize at the National Competition in Biology (2004), 2nd prize at the National Competition in Biology (2005 - 2006) 
 
 medias:
-    title: Public Outreach
+    title: Highlighted Public Outreach
     intro: >
             
     assignments:      
-      - title: "STORYTELLING: Berlin’s Long Night of Science 2019"
-        link: "https://www.youtube.com/watch?v=kHW2Gek8QWY"
-        tagline: Story “Why did you have to leave?”
+    #  - title: "STORYTELLING: Berlin’s Long Night of Science 2019"
+    #    link: "https://www.youtube.com/watch?v=kHW2Gek8QWY"
+    #    tagline: Story “Why did you have to leave?”
         
-      - title: "STORYTELLING: Berlin’s Science Week 2018"
+      - title: "STORYTELLING"
         link: "https://www.thebear-storytelling.de/gravity-show/"
-        tagline: Story “From WE to ME”
+        tagline: Berlin’s Science Week 2018 #Story “From WE to ME”
                 
       - title: "INTERVIEW: KCRW Berlin Radio 2018"
         link: "https://kcrwberlin.com/2018/11/berlin-science-week-when-the-bioinformatician-met-the-psychiatrist"
-        tagline: "Berlin Science Week: When the bioinformatician met the psychiatrist…"
+      #  tagline: "Berlin Science Week: When the bioinformatician met the psychiatrist…"
         
       - title: "WRITING: Popular science articles" 
         link: "http://biologija.com.hr/modules/profile/userinfo.php?uid=278"
-        tagline: "Writing articles about DTC, genomics, genetics..."
+     #   tagline: "Writing articles about DTC, genomics, genetics..."
         
-      - title: "EDUCATION AND WRITING: Science articles for pupils of primary schools"
+      - title: "EDUCATION AND WRITING"
         link: "http://www.bioteka.hr/modules/evolucijasvijeta/article.php?storyid=17"
-        tagline: "Writing online educational material for pupils"
+        tagline: Science articles for pupils of primary schools #"Writing online educational material for pupils"
 
 projects:
     title: Projects
@@ -168,7 +168,9 @@ projects:
         link: "climbersforclimbers.com"
         tagline: "Web-site with chains of interviews with climbers - coming in January 2020"
 
-
+     - title: PREPARE
+        link: "prepare-europe.eu"
+        tagline: Platform for European Preparedness Against (Re-)emerging Epidemics Project
 
 
 publications:
