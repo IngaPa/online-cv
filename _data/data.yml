@@ -173,5 +173,28 @@ publications:
 
 
 
+conferences:
+    title: Conferences and talks
+    intro: |
+        
+    papers:
+    
+      - title: World Health Summit
+        authors: Berlin, 2015
+    
+      - title: World Health Summit
+        authors: Berlin, 2015
+               
+      - title: 21st International Conference on Subterranean Biology
+        authors: Košice, Slovakia, 2014
+
+      - title: 18th International Karstological School" Classical Karst"
+        authors: Postojna, Slovenia, 2010
+
+      - title: Scientific symposium: "Special values of deep karst”.
+        authors: Krasno, Croatia
+
+
+
 footer: >
     Designed with <3 in Berlin
