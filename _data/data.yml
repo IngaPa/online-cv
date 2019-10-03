@@ -105,11 +105,28 @@ experiences:
           - Created and maintained filing system for storing records
           - Contributed to the development and maintenance of SOPs
           
+        I focused my study and research goals towards bioinformatics.
+        
+       
+     - role: Researcher during studies
+      time: 2007 - 2007
+      company: University of Zagreb, University of Ljubljana, Medils
+      details: |
+       During studies, I was an active bio-speleologist. Then, I focused my study and research goals towards bioinformatics.
+        
+          - Graduated with topic in population genetics: Genetic structure of the human population of Korčula island
+          - Analyzed genotypes of thousand Croatian individual with R, STRUCTURE, ADMIXTURE, PLINK, and ADMIXTOOLS softwares.
+          
+          - Collected samples and data in >100 speleological objects during multiple speleological expeditions in different EU countries
+          - Reached the bottom of the deepest Croatian cave: Lukina Jama - Trojama (-1431m)
+          - Awarded with The Rector’s Award for "Phylogenetic analysis of endemic bivalve Congeria kusceri Bole, 1962 (Dreissenidae, Bivalvia)." 
+          - Mastered problem solving skills in the wet lab environment: PCR, DNA isolation and sequencing, cell and bacterial culture manipulation...
+          - Awarded with: The City of Zagreb Scholarship, University of Zagreb Scholarship for Top Students
           
               
-    - role: High-school researcher
+    - role: Researcher during high-school 
       time: 2004 - 2014
-      company: 5th Gymnasium, University of Zagreb, University of Ljubljana, Medils
+      company: 5th Gymnasium, 
       details: |
         I have been actively engaged in the scientific research since 2004:
           - Conducted research projects:Mendel’s laws applied on the history of one dog family (2004), Human evolution: biology or math? (2005), Cariogram of some fish species (2006)
@@ -121,24 +138,24 @@ medias:
     title: Public Outreach
     intro: >
             
-    assignments:
-      - title: Berlin’s Science Week 2018
-        link: "https://www.thebear-storytelling.de/gravity-show/"
-        tagline: Story “From WE to ME”
-        
-      - title: Berlin’s Long Night of Science 2019
+    assignments:      
+      - title: STORYTELLING: Berlin’s Long Night of Science 2019
         link: "https://www.youtube.com/watch?v=kHW2Gek8QWY"
         tagline: Story “Why did you have to leave?”
         
-      - title: KCRW Berlin Radio Interview 2018
+      - title: STORYTELLING: Berlin’s Science Week 2018
+        link: "https://www.thebear-storytelling.de/gravity-show/"
+        tagline: Story “From WE to ME”
+                
+      - title: INTERVIEW: KCRW Berlin Radio 2018
         link: "https://kcrwberlin.com/2018/11/berlin-science-week-when-the-bioinformatician-met-the-psychiatrist"
         tagline: "Berlin Science Week: When the bioinformatician met the psychiatrist…"
         
-      - title: Popular science articles 
+      - title: WRITING: Popular science articles 
         link: "http://biologija.com.hr/modules/profile/userinfo.php?uid=278"
         tagline: "Writing articles about DTC, genomics, genetics..."
         
-      - title: Science articles for pupils of primary schools
+      - title: EDUCATION AND WRITING: Science articles for pupils of primary schools
         link: "http://www.bioteka.hr/modules/evolucijasvijeta/article.php?storyid=17"
         tagline: "Writing online educational material for pupils"
 
