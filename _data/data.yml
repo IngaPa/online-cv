@@ -208,6 +208,25 @@ projects:
       - title: climbersforclimbers
         link: "climbersforclimbers.com"
         tagline: "Web-site with chains of interviews with climbers - coming in January 2020"
+        
+        
+projects:
+    title: Projects
+    intro: |
+            
+    assignments:
+      - title: myDNA
+        link: "https://github.com/IngaPa/myDNAS"
+        tagline: "R package for the analysis of direct-to-consumer (DTC) reported genotypes from companies such as myHeritage, 23andMe, ancestryDNA, etc."
+
+      - title: climbersforclimbers
+        link: "climbersforclimbers.com"
+        tagline: "Web-site with chains of interviews with climbers - coming in January 2020"
+        
+      - title: PREPARE
+        link: "prepare-europe.eu"
+        tagline: "Platform for European Preparedness Against (Re-)emerging Epidemics"
+
 
 
 
