@@ -157,8 +157,8 @@ conferences:
     intro: |
          
     papers:         
-      - title: European Human Genetics Conference (TALK)
-        authors: Gothenburg, Sweden, 2019
+      - title: European Human Genetics Conference 
+        authors: "Gothenburg, Sweden, 2019, TALK"
     
       - title: FEBS Advanced Course 3rd Danube Conference on Epigenetics
         authors: Budapest, Hungary, 2018
@@ -166,14 +166,14 @@ conferences:
       - title: "EMBO Conference: Principles of Chromosomal Structure and Function"
         authors: Heidelberg, Germany, 2018
         
-      - title: "CRG and BIMSB Retreat" (TALK)
-        authors: Barcelona, Spain, 2017 
+      - title: "CRG and BIMSB Retreat" 
+        authors: Barcelona, Spain, 2017, TALK 
 
       - title: European Human Genetics Conference
         authors: Copenhagen, Denmark, 2017
     
-      - title: "Bioinformatics Social Meeting" (TALK)
-        authors: Berlin, Germany, 2016
+      - title: "Bioinformatics Social Meeting" 
+        authors: Berlin, Germany, 2016, TALK
     
       - title: "EMBO Conference: From functional genomics to systems biology"
         authors: Heidelberg, Germany, 2016
