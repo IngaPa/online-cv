@@ -68,12 +68,13 @@ experiences:
        My core research idea is to develop a computational model to associate regulatory regions and their target genes using data integration approaches:
           - Developed two R packages: reg2gene and myDNA
           - Started myDNA blog and developed Shiny App
-          - Integrated various datasets (H3K4me1,H3K27ac, DNAme, DHS, HiC) and algorithms (elastic net, random forest, distance correlation and correlation)
+          - Integrated various datasets (H3K4me1,H3K27ac, DNAme, DHS, HiC) and 
+            algorithms (elastic net, random forest, distance correlation and correlation)
           - in process of writing: reg2gene: Predicting enhancer - gene associations using ensemble learning approaches [publication and thesis] 
 
           
     - role: Visiting Scientist
-      time: 2015
+      time: Spring 2015
       company: MRC Human Genetics Unit, University of Edinburgh, Edinburgh
       details: |
         I anayzed data from the Croatian National Biobank:
@@ -108,12 +109,11 @@ experiences:
         I focused my study and research goals towards bioinformatics.
         
        
-     - role: Researcher during studies
+    - role: Researcher during studies
       time: 2007 - 2007
       company: University of Zagreb, University of Ljubljana, Medils
       details: |
        During studies, I was an active bio-speleologist. Then, I focused my study and research goals towards bioinformatics.
-        
           - Graduated with topic in population genetics: Genetic structure of the human population of Korčula island
           - Analyzed genotypes of thousand Croatian individual with R, STRUCTURE, ADMIXTURE, PLINK, and ADMIXTOOLS softwares.
           
