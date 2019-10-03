@@ -143,9 +143,9 @@ medias:
         link: "https://www.thebear-storytelling.de/gravity-show/"
         tagline: "Berlin’s Science Week 2018" #Story “From WE to ME”
                 
-      - title: "INTERVIEW: KCRW Berlin Radio 2018"
+      - title: "INTERVIEW"
         link: "https://kcrwberlin.com/2018/11/berlin-science-week-when-the-bioinformatician-met-the-psychiatrist"
-      #  tagline: "Berlin Science Week: When the bioinformatician met the psychiatrist…"
+        tagline: "KCRW Berlin Radio 2018" # "Berlin Science Week: When the bioinformatician met the psychiatrist…"
         
       - title: "WRITING" 
         link: "http://biologija.com.hr/modules/profile/userinfo.php?uid=278"
@@ -157,7 +157,7 @@ medias:
 
 projects:
     title: Projects
-    intro: >
+    intro: |
             
     assignments:
       - title: myDNA
