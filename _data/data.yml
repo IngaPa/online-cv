@@ -130,27 +130,7 @@ experiences:
           - Developed strong communication and presenting skills by giving talks at the: National Competitions, Faculty of Science (2005), Matrix Croatica (2004-2006)  
           - Awarded with: 1st prize at the National Competition in Biology (2004), 2nd prize at the National Competition in Biology (2005 - 2006) 
 
-medias:
-    title: Highlighted Public Outreach
-    intro: >
-            
-    assignments:            
-      - title: "STORYTELLING"
-        link: "https://www.thebear-storytelling.de/gravity-show/"
-        tagline: "Berlin’s Science Week 2018" #Story “From WE to ME”
-                
-      - title: "INTERVIEW"
-        link: "https://kcrwberlin.com/2018/11/berlin-science-week-when-the-bioinformatician-met-the-psychiatrist"
-        tagline: "KCRW Berlin Radio 2018" # "Berlin Science Week: When the bioinformatician met the psychiatrist…"
-        
-      - title: "WRITING" 
-        link: "http://biologija.com.hr/modules/profile/userinfo.php?uid=278"
-        tagline: "Popular science articles" #"Writing articles about DTC, genomics, genetics..."
-        
-      - title: "EDUCATION AND WRITING"
-        link: "http://www.bioteka.hr/modules/evolucijasvijeta/article.php?storyid=17"
-        tagline: "Science articles for pupils of primary schools" #"Writing online educational material for pupils"
-        
+       
 
 projects:
     title: Projects
@@ -217,6 +197,26 @@ conferences:
         authors: Krasno, Croatia
 
 
+medias:
+    title: Highlighted Public Outreach
+    intro: >
+            
+    assignments:            
+      - title: "STORYTELLING"
+        link: "https://www.thebear-storytelling.de/gravity-show/"
+        tagline: "Berlin’s Science Week 2018" #Story “From WE to ME”
+                
+      - title: "INTERVIEW"
+        link: "https://kcrwberlin.com/2018/11/berlin-science-week-when-the-bioinformatician-met-the-psychiatrist"
+        tagline: "KCRW Berlin Radio 2018" # "Berlin Science Week: When the bioinformatician met the psychiatrist…"
+        
+      - title: "WRITING" 
+        link: "http://biologija.com.hr/modules/profile/userinfo.php?uid=278"
+        tagline: "Popular science articles" #"Writing articles about DTC, genomics, genetics..."
+        
+      - title: "EDUCATION AND WRITING"
+        link: "http://www.bioteka.hr/modules/evolucijasvijeta/article.php?storyid=17"
+        tagline: "Science articles for pupils of primary schools" #"Writing online educational material for pupils"
 
 footer: >
     Designed with <3 in Berlin
