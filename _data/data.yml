@@ -139,23 +139,23 @@ medias:
     intro: >
             
     assignments:      
-      - title: STORYTELLING: Berlin’s Long Night of Science 2019
+      - title: "STORYTELLING: Berlin’s Long Night of Science 2019"
         link: "https://www.youtube.com/watch?v=kHW2Gek8QWY"
         tagline: Story “Why did you have to leave?”
         
-      - title: STORYTELLING: Berlin’s Science Week 2018
+      - title: "STORYTELLING: Berlin’s Science Week 2018"
         link: "https://www.thebear-storytelling.de/gravity-show/"
         tagline: Story “From WE to ME”
                 
-      - title: INTERVIEW: KCRW Berlin Radio 2018
+      - title: "INTERVIEW: KCRW Berlin Radio 2018"
         link: "https://kcrwberlin.com/2018/11/berlin-science-week-when-the-bioinformatician-met-the-psychiatrist"
         tagline: "Berlin Science Week: When the bioinformatician met the psychiatrist…"
         
-      - title: WRITING: Popular science articles 
+      - title: "WRITING: Popular science articles" 
         link: "http://biologija.com.hr/modules/profile/userinfo.php?uid=278"
         tagline: "Writing articles about DTC, genomics, genetics..."
         
-      - title: EDUCATION AND WRITING: Science articles for pupils of primary schools
+      - title: "EDUCATION AND WRITING: Science articles for pupils of primary schools"
         link: "http://www.bioteka.hr/modules/evolucijasvijeta/article.php?storyid=17"
         tagline: "Writing online educational material for pupils"
 
