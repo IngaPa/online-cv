@@ -141,19 +141,19 @@ medias:
         
       - title: "STORYTELLING"
         link: "https://www.thebear-storytelling.de/gravity-show/"
-        tagline: Berlin’s Science Week 2018 #Story “From WE to ME”
+        tagline: "Berlin’s Science Week 2018" #Story “From WE to ME”
                 
       - title: "INTERVIEW: KCRW Berlin Radio 2018"
         link: "https://kcrwberlin.com/2018/11/berlin-science-week-when-the-bioinformatician-met-the-psychiatrist"
       #  tagline: "Berlin Science Week: When the bioinformatician met the psychiatrist…"
         
-      - title: "WRITING: Popular science articles" 
+      - title: "WRITING" 
         link: "http://biologija.com.hr/modules/profile/userinfo.php?uid=278"
-     #   tagline: "Writing articles about DTC, genomics, genetics..."
+        tagline: "Popular science articles" #"Writing articles about DTC, genomics, genetics..."
         
       - title: "EDUCATION AND WRITING"
         link: "http://www.bioteka.hr/modules/evolucijasvijeta/article.php?storyid=17"
-        tagline: Science articles for pupils of primary schools #"Writing online educational material for pupils"
+        tagline: "Science articles for pupils of primary schools" #"Writing online educational material for pupils"
 
 projects:
     title: Projects
