@@ -134,11 +134,7 @@ medias:
     title: Highlighted Public Outreach
     intro: >
             
-    assignments:      
-    #  - title: "STORYTELLING: Berlin’s Long Night of Science 2019"
-    #    link: "https://www.youtube.com/watch?v=kHW2Gek8QWY"
-    #    tagline: Story “Why did you have to leave?”
-        
+    assignments:            
       - title: "STORYTELLING"
         link: "https://www.thebear-storytelling.de/gravity-show/"
         tagline: "Berlin’s Science Week 2018" #Story “From WE to ME”
@@ -154,10 +150,14 @@ medias:
       - title: "EDUCATION AND WRITING"
         link: "http://www.bioteka.hr/modules/evolucijasvijeta/article.php?storyid=17"
         tagline: "Science articles for pupils of primary schools" #"Writing online educational material for pupils"
+        
+    #  - title: "STORYTELLING: Berlin’s Long Night of Science 2019"
+    #    link: "https://www.youtube.com/watch?v=kHW2Gek8QWY"
+    #    tagline: Story “Why did you have to leave?”
 
 projects:
     title: Projects
-    intro: |
+    intro: >
             
     assignments:
       - title: myDNA
