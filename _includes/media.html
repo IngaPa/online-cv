@@ -1,32 +1,13 @@
-{% assign medias = site.data.data.medias %}
-{% if medias %}
-<section class="section medias-section">
-
-<h2 class="container-block-title"> Awards and Stipends </h2>
-
-  {% if medias.intro %}
-  <div class="intro">
-      <p>{{ medias.intro }}</p>
-  </div><!--//intro-->
-  {% endif %}
-
-  {% for media in medias.assignments %}
-    <div class="item">
-
-      <span class="media-title">
-        {% if media.link %}
-        <a href="{{ media.link }}" target="_blank">{{ media.title }}</a>
-        {% else %}
-        {{ media.title }}
-        {% endif %}
-      </span>
-
-      {% if media.tagline %}
-      - <span class="media-tagline">{{ media.tagline }}</span>
-      {% endif %}
-
-    </div><!--//item-->
-  {% endfor %}
-
-</section><!--//section-->
-{% endif %}
+<div class="interests-container container-block">
+<h2 class="container-block-title"> Public Outreach </h2>
+<ul class="list-unstyled interests-list"
+    
+<li><strong> <a href="{{https://www.thebear-storytelling.de/gravity-show/ }}" target="_blank">{{ STORYTELLING }}</a></strong><span style="color:rgba(256, 256, 256, 0.6); font-weight: 500"> (Berlin’s Science Week 2018)</span></li> 
+<li><strong>Stipend for Top Students</strong><span style="color:rgba(256, 256, 256, 0.6); font-weight: 500"> (University of Zagreb; 2009 and 2013)</span></li>
+<li><strong>Rector's Award 2009</strong> <span style="color:rgba(256, 256, 256, 0.6); font-weight: 500"> (University of Zagreb) </span></li>
+<li><strong>Stipend for Top Students</strong> <span style="color:rgba(256, 256, 256, 0.6); font-weight: 500"> (The City of Zagreb; 2006 - 2013) </span></li>
+<li><strong>Croatian National Champion in Biology</strong> <span style="color:rgba(256, 256, 256, 0.6); font-weight: 500"> (Croatian Biological Society; 2004 - 2006) </span></li>
+    
+    
+     
+ 
