@@ -1,19 +1,9 @@
-{% if site.data.skills %}
 <div class="skills-container container-block">
+<h2 class="container-block-title"> Highlighted skills </h2>
+<ul class="list-unstyled interests-list">
+<li><span style="color:rgba(256, 256, 256, 0.6); font-weight: 500"> Programming </span> <strong>R</strong>,Python, Git   </li>
+<li><span style="color:rgba(256, 256, 256, 0.6); font-weight: 500"> Molecular biology </span> <strong>DNA sequencing</strong>,PCR,    </li>
+<li><span style="color:rgba(256, 256, 256, 0.6); font-weight: 500"> Analytical skills </span> <strong> meta-analysis </strong>, machine learning, statistical modelling   </li>
+<li><span style="color:rgba(256, 256, 256, 0.6); font-weight: 500"> Other </span> writing, <strong> storytelling </strong>,Python, Git   </li>
 
-  <h2 class="container-block-title">Highlighted skills</h2>
-
-    <ul class="list-unstyled skills-list">
-      {% for skills in site.data.skills %}
-
-      {% if skills.link %}
-        <li><a href="{{ skills.link }}">{{ skills.item }}</a></li>
-        {% else %}
-        <li>{{ skills.item }}</li>
-        {% endif %}
-
-      {% endfor %}
-    </ul>
-
-</div><!--//skills-->
-{% endif %}
+  </div><!--//interests-->
