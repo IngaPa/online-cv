@@ -61,7 +61,7 @@ education:
           
 
 experiences:
-    - role: PhD Student (focus: data integration and epigenomics)
+    - role: "PhD Student (focus: data integration and epigenomics)"
       time: 2015 - Present 
       company: Data Omics and Bioinformatics Science Gruop
       details: |
@@ -73,7 +73,7 @@ experiences:
           - in process of writing: reg2gene: Predicting enhancer - gene associations using ensemble learning approaches [publication and thesis] 
 
           
-    - role: Visiting Scientist (focus: machine learning modelling and polygenic risk scores)
+    - role: "Visiting Scientist (focus: machine learning modelling and polygenic risk scores)"
       time: Spring 2015
       company: MRC Human Genetics Unit, University of Edinburgh, Edinburgh
       details: |
@@ -83,7 +83,7 @@ experiences:
           - Co-authored 1 publication
      
      
-    - role: Researcher at prepare-europe.eu (focus: meta-analysis/sys reviews and infectious diseases)
+    - role: "Researcher at prepare-europe.eu (focus: meta-analysis/sys reviews and infectious diseases)"
       time: 2013 - 2015
       company: Medical Faculty, University of Split, Split
       details: |
@@ -95,7 +95,7 @@ experiences:
    
           
           
-    - role: Researcher in a Biobank facility (focus: data collection/analysis and population genetics)
+    - role: "Researcher in a Biobank facility (focus: data collection/analysis and population genetics)"
       time: 2012 - 2014
       company: 10,001 Dalmatians - Croatian National Biobank, University of Split
       details: |
@@ -109,7 +109,7 @@ experiences:
           - Analyzed genotypes of thousand Croatian individual with R, STRUCTURE, ADMIXTURE, PLINK, and ADMIXTOOLS softwares.
 
 
-    - role: Biospeleologist (focus: field-work and phylogenetic analysis)
+    - role: "Biospeleologist (focus: data collection/analysis and phylogenetic analysis)"
       time: 2007 - 2012
       company: University of Zagreb, University of Ljubljana
       details: |
@@ -211,10 +211,10 @@ conferences:
       - title: 21st International Conference on Subterranean Biology
         authors: Košice, Slovakia, 2014
 
-      - title: 18th International Karstological School" Classical Karst"
+      - title: "18th International Karstological School - Classical Karst"
         authors: Postojna, Slovenia, 2010
 
-      - title: Scientific symposium: "Special values of deep karst”.
+      - title: "Scientific symposium: Special values of deep karst."
         authors: Krasno, Croatia
 
 
