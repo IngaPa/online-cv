@@ -71,8 +71,7 @@ experiences:
           - Integrated various datasets (H3K4me1,H3K27ac, DNAme, DHS, HiC) and 
             algorithms (elastic net, random forest, distance correlation and correlation)
           - in process of writing: reg2gene: Predicting enhancer - gene associations using ensemble learning approaches [publication and thesis] 
-
-          
+      
     - role: "Visiting Scientist [machine learning and polygenic risk scores]"
       time: Spring 2015
       company: MRC Human Genetics Unit, University of Edinburgh, Edinburgh
@@ -80,8 +79,7 @@ experiences:
         I focused on improving machine learning models to calculate polygenic risk score
           - Performed GWAS and analysis of exome datasets
           - Tested LASSO, ridge regression, random forest, CART calculation for polygenic risk scores for metabolic syndrome
-          - Co-authored 1 publication
-     
+          - Co-authored 1 publication   
      
     - role: "Researcher [meta-analysis/sys reviews and infectious diseases]"
       time: 2013 - 2015
@@ -92,8 +90,7 @@ experiences:
          - Published 2 systematic reviews and meta-analyses
          - Developed guidelines to improve research design of future association studies
          - Awarded with the New Voices in Global Health Award at the World Health Summit   
-   
-          
+       
           
     - role: "Researcher in a Biobank facility [data collection/analysis and population genetics]"
       time: 2012 - 2014
@@ -137,7 +134,6 @@ projects:
     intro: |
             
     assignments:
-    
       - title: myDNA
         link: "https://github.com/IngaPa/myDNAS"
         tagline: "R package for the analysis of direct-to-consumer (DTC) reported genotypes from companies such as myHeritage, 23andMe, ancestryDNA, etc."
@@ -156,8 +152,6 @@ publications:
     intro: |
         
     papers:
-    
-    
       - title: "Host genetics and susceptibility to congenital and childhood cytomegalovirus infection: a systematic review."
         authors: Gelemanović, Andrea, Patarčić I,,et al.
         conference: " Croatian medical journal 57.4 (2016): 321-330."
