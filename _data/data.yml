@@ -158,20 +158,34 @@ conferences:
          
     papers:     
     
-      - title: World Health Summit
-        authors: Berlin, 2015
+      - title: European Human Genetics Conference
+        authors: Gothenburg, Sweden, 2019
+    
+      - title: FEBS Advanced Course, 3rd Danube Conference on Epigenetics
+        authors: Budapest, Hungary, 2018
+               
+      - title: EMBO Conference: Principles of Chromosomal Structure and Function
+        authors: Heidelberg, Germany, 2018
+
+      - title: European Human Genetics Conference
+        authors: Copenhagen, Denmark, 2017
+    
+      - title: "EMBO Conference: From functional genomics to systems biology"
+        authors: Heidelberg, Germany, 2016
     
       - title: World Health Summit
         authors: Berlin, 2015
                
       - title: 21st International Conference on Subterranean Biology
         authors: Košice, Slovakia, 2014
-
+        
+      - title: "Scientific symposium: Special values of deep karst."
+        authors: Krasno, Croatia, 2012
+        
       - title: "18th International Karstological School - Classical Karst"
         authors: Postojna, Slovenia, 2010
 
-      - title: "Scientific symposium: Special values of deep karst."
-        authors: Krasno, Croatia
+
 
 
 medias:
