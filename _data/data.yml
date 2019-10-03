@@ -156,15 +156,14 @@ conferences:
     title: Conferences and talks
     intro: |
          
-    papers:     
-    
+    papers:         
       - title: European Human Genetics Conference
         authors: Gothenburg, Sweden, 2019
     
-      - title: FEBS Advanced Course, 3rd Danube Conference on Epigenetics
+      - title: FEBS Advanced Course 3rd Danube Conference on Epigenetics
         authors: Budapest, Hungary, 2018
                
-      - title: EMBO Conference: Principles of Chromosomal Structure and Function
+      - title: "EMBO Conference: Principles of Chromosomal Structure and Function"
         authors: Heidelberg, Germany, 2018
 
       - title: European Human Genetics Conference
@@ -205,23 +204,18 @@ medias:
         link: "http://biologija.com.hr/modules/profile/userinfo.php?uid=278"
         tagline: "Popular science articles" #"Writing articles about DTC, genomics, genetics..."
         
-      - title: "EDUCATION AND WRITING"
+      - title: "EDUCATION"
         link: "http://www.bioteka.hr/modules/evolucijasvijeta/article.php?storyid=17"
         tagline: "Science articles for pupils of primary schools" #"Writing online educational material for pupils"
+                
+      - title: "TEACHING"
+        link: "https://drustvo-evo.hr/s3/s3pp_2019.html"
+        tagline: "Project leader at summer schools of science" #"Writing online educational material for pupils"
+        
+      - title: "CITIZEN SCIENCE"
+        link: "mydnas.github.io/myDNA/"
+        tagline: "R package for DTC tests anaysis" #"Writing online educational material for pupils"  
 
-
-projects:
-    title: Projects
-    intro: |
-            
-    assignments:
-      - title: myDNA
-        link: "https://github.com/IngaPa/myDNAS"
-        tagline: "R package for the analysis of direct-to-consumer (DTC) reported genotypes from companies such as myHeritage, 23andMe, ancestryDNA, etc."
-
-      - title: climbersforclimbers
-        link: "climbersforclimbers.com"
-        tagline: "Web-site with chains of interviews with climbers - coming in January 2020"
         
         
 projects:
