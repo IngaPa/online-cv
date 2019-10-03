@@ -137,6 +137,7 @@ projects:
     intro: |
             
     assignments:
+    
       - title: myDNA
         link: "https://github.com/IngaPa/myDNAS"
         tagline: "R package for the analysis of direct-to-consumer (DTC) reported genotypes from companies such as myHeritage, 23andMe, ancestryDNA, etc."
