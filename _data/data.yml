@@ -120,9 +120,9 @@ experiences:
           - Awarded with: The City of Zagreb Scholarship, University of Zagreb Scholarship for Top Students
           
               
-    - role: Research during high-school 
+    - role: "Research during the high-school" 
       time: 2004 - 2014
-      company: 5th Gymnasium, 
+      company: 5th Gymnasium 
       details: |
         I have been actively engaged in the scientific research since 2004:
           - Conducted research projects:Mendel’s laws applied on the history of one dog family (2004), Human evolution: biology or math? (2005), Cariogram of some fish species (2006)
@@ -134,7 +134,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
+    intro: |
             
     assignments:
       - title: myDNA
