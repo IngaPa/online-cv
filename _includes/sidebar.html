@@ -21,14 +21,13 @@
   {% include interests.html %}
    {% include skills.html %}
    {% include language.html %}
-    {% include media.html %}
-  
-  {% include award.html %}
-  {% if sidebar.education %}
+   {% if sidebar.education %}
     {% include education.html %}
   {% endif %}
-
-
+  
+    {% include media.html %}
+    {% include award.html %}
+ 
   {% if sidebar.about %}
     {% include about.html %}
   {% endif %}
