@@ -38,6 +38,13 @@ career-profile:
       I am passionate about storytelling, writing, and ... sport.
 
 education:
+education:
+    - degree: PhD in Bioinformatics
+      university: Humboldt University of Berlin
+      time: 2015 - 
+      details: |
+       TBC
+          
     - degree: MSc in Molecular Biology
       university: University of Zagreb
       time: 2010 - 2013
@@ -67,12 +74,12 @@ experiences:
       company: Bioinformatics and Omics Data Science Group, BIMSB, Berlin
       details: |
        My core research idea is to develop a computational model to associate regulatory regions and their target genes using data integration approaches:
-          - Developed two R packages: reg2gene and myDNA
-          - Started myDNA blog and developed Shiny App
           - Integrated various datasets (H3K4me1,H3K27ac, DNAme, DHS, HiC) and 
             algorithms (elastic net, random forest, distance correlation and correlation)
           - in process of writing: reg2gene: Predicting enhancer - gene associations using ensemble learning approaches [publication and thesis] 
-      
+          - Developed two R packages: reg2gene and myDNA
+          - Started myDNA blog and developed myDNA Shiny App
+          
     - role: "Visiting scientist - Machine learning and polygenic risk scores"
       time: Spring 2015
       company: MRC Human Genetics Unit, University of Edinburgh, Edinburgh
