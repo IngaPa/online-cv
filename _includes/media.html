@@ -1,38 +1,5 @@
-{% assign medias = site.data.data.medias %}
-{% if medias %}
-<section class="section medias-section">
+<div class="interests-container container-block">
+<h2 class="container-block-title"> Public Outreach </h2>
+<ul class="list-unstyled interests-list"
 
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ medias.title }}
-  </h2>
-
-  {% if medias.intro %}
-  <div class="intro">
-      <p>{{ medias.intro }}</p>
-  </div><!--//intro-->
-  {% endif %}
-
-  {% for media in medias.assignments %}
-    <div class="item">
-
-      <span class="media-title">
-        {% if media.link %}
-        <a href="{{ media.link }}" target="_blank">{{ media.title }}</a>
-        {% else %}
-        {{ media.title }}
-        {% endif %}
-      </span>
-
-      {% if media.tagline %}
-      - <span class="media-tagline">{{ media.tagline }}</span>
-      {% endif %}
-
-    </div><!--//item-->
-  {% endfor %}
-
-</section><!--//section-->
-{% endif %}
+<li><strong>New Voices in Global Health</strong><span style="color:rgba(256, 256, 256, 0.6); font-weight: 500"> (World Health Summit; 2015)</span></li> 
