@@ -193,34 +193,6 @@ conferences:
 
 
 
-medias:
-    title: Highlighted Public Outreach
-    intro: >
-            
-    assignments:            
-      - title: "STORYTELLING"
-        link: "https://www.thebear-storytelling.de/gravity-show/"
-        tagline: "Berlin’s Science Week 2018" #Story “From WE to ME”
-                
-      - title: "INTERVIEW"
-        link: "https://kcrwberlin.com/2018/11/berlin-science-week-when-the-bioinformatician-met-the-psychiatrist"
-        tagline: "KCRW Berlin Radio 2018" # "Berlin Science Week: When the bioinformatician met the psychiatrist…"
-        
-      - title: "WRITING" 
-        link: "http://biologija.com.hr/modules/profile/userinfo.php?uid=278"
-        tagline: "Popular science articles" #"Writing articles about DTC, genomics, genetics..."
-        
-      - title: "EDUCATION"
-        link: "http://www.bioteka.hr/modules/evolucijasvijeta/article.php?storyid=17"
-        tagline: "Science articles for pupils of primary schools" #"Writing online educational material for pupils"
-                
-      - title: "TEACHING"
-        link: "https://drustvo-evo.hr/s3/s3pp_2019.html"
-        tagline: "Project leader at summer schools of science" #"Writing online educational material for pupils"
-        
-      - title: "CITIZEN SCIENCE"
-        link: "mydnas.github.io/myDNA/"
-        tagline: "R package for DTC tests anaysis" #"Writing online educational material for pupils"  
 
         
         
