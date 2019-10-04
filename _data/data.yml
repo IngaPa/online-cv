@@ -33,8 +33,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a PhD Student, semi-professioanl climber and hobby writer/storyteller.
-      My current basecamp is set in Berlin.
+      I am a PhD Student in bioinformatics with major in molecular biology. 
+      My points of interest are statistical modelling, genomics, and human genetics. 
+      I am passionate about storytelling, writing, and ... sport.
 
 education:
     - degree: MSc in Molecular Biology
@@ -179,7 +180,7 @@ conferences:
         authors: Heidelberg, Germany, 2016
     
       - title: World Health Summit
-        authors: Berlin, 2015
+        authors: Berlin, Germany, 2015
                
       - title: 21st International Conference on Subterranean Biology
         authors: Košice, Slovakia, 2014
@@ -189,8 +190,6 @@ conferences:
         
       - title: "18th International Karstological School - Classical Karst"
         authors: Postojna, Slovenia, 2010
-
-
 
 
 medias:
@@ -222,6 +221,7 @@ medias:
         link: "mydnas.github.io/myDNA/"
         tagline: "R package for DTC tests anaysis" #"Writing online educational material for pupils"  
 
+
         
         
 projects:
@@ -234,11 +234,11 @@ projects:
         tagline: "R package for the analysis of direct-to-consumer (DTC) reported genotypes from companies such as myHeritage, 23andMe, ancestryDNA, etc."
 
       - title: climbersforclimbers
-        link: "climbersforclimbers.com"
+        link: "https://climbersforclimbers.com"
         tagline: "Web-site with chains of interviews with climbers - coming in January 2020"
         
       - title: PREPARE
-        link: "prepare-europe.eu"
+        link: "https://prepare-europe.eu"
         tagline: "Platform for European Preparedness Against (Re-)emerging Epidemics"
 
 

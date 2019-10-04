@@ -142,6 +142,16 @@ p {
         }
     }
 
+.media-list {
+        margin-bottom: 0;
+        li {
+            margin-bottom: 10px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+	
     .interests-list {
         margin-bottom: 0;
         li {
@@ -198,22 +208,7 @@ p {
         color: $text-grey;
     }
 
-    .media-title {
-        font-size: 16px;
-        font-weight: 400;
-        margin-top: 0;
-        margin-bottom: 5px;
-	color: darken($theme-color, 15%);
-    }
-    .media-section {
-        .intro {
-            margin-bottom: 30px;
-        }
-        .item {
-            margin-bottom: 15px;
-        }
-    }	
-	
+   	
     .project-title {
         font-size: 16px;
         font-weight: 400;
@@ -250,6 +245,22 @@ p {
         }
     }
 }
+
+.media-title {
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 0;
+        margin-bottom: 5px;
+	color: darken($theme-color, 15%);
+    }
+    .media-section {
+        .intro {
+            margin-bottom: 30px;
+        }
+        .item {
+            margin-bottom: 15px;
+        }
+    }	
 
 .conference-title {
         font-size: 16px;
